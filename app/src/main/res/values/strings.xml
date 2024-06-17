@@ -12,7 +12,7 @@
     <string name="name">Имя</string>
     <string name="last_name">Фамилия</string>
     <string name="age">Возраст</string>
-    <string name="sign_up">ВОЙТИ</string>
+    <string name="sign_up">ЗАРЕГИСТРИРОВАТЬСЯ</string>
     <string name="forgot_password_title">Забыли пароль?</string>
     <string name="reset_password">СБРОСИТЬ ПАРОЛЬ</string>
     <string name="logout">Выйти</string>
